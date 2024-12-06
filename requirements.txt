@@ -2,7 +2,7 @@ flask==2.3.2
 werkzeug>=2.3.3
 tensorflow==2.17.0
 torch==2.0.1
-opencv-python==4.8.0.74
+opencv-python<=4.6.0.66
 PaddleOCR==2.6.1.3
 numpy==1.25.2
 gunicorn==20.1.0
